@@ -1,0 +1,11 @@
+# Ignore IntelliSense files
+*.ipch
+*.opensdf
+*.sdf
+*.user
+*.unsuccessfulbuild
+
+# Ignore build folders
+.vs/
+bin/
+obj/
